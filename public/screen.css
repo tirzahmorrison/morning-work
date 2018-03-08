@@ -8,6 +8,9 @@ body {
   font: 16px / 1 sans-serif;
 }
 
+.flexcontainer{
+  display: flex;
+}
 
 .container a{
   width: 300px;
